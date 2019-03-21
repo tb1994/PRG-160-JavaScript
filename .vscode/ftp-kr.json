@@ -1,0 +1,16 @@
+{
+    "host": "iop-400-javaquiz.tbtestsite.com",
+    "username": "student_iop-400-javaquiz.tbtestsite.com",
+    "password": "raccpass",
+    "remotePath": "iop-400-javaquiz.tbtestsite.com",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
