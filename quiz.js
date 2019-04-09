@@ -103,7 +103,68 @@
         C: "Doesn't need a variable to function.",
       },
       correctAnswer: "A"
-    }
+    },
+    {
+      question: "JavaScript Quiz Part 5 *DOM, JS Objects, and BOM*", 
+    },
+    {
+      question: "Which one is INCORRECT?",
+      answers: {
+        A: "Element[1]",
+        B: "Text[3]",
+        C: "Document[9]",
+        D: "DocumentType[11]"
+      },
+      correctAnswer: "D"
+    },
+    {
+      question: "The D.O.M is made up of *Trees* which are made up of *Nodes* (T/F)",
+      answers: {
+        True: "Absolutely",
+        False: "Actually, Nodes are made up of Trees"
+      },
+      correctAnswer: "True"
+    },
+    {
+      question: "Which of the following is NOT one of the B.O.M Window Methods?",
+      answers: {
+        A: "window.open",
+        B: "window.moveTo",
+        C: "window.resizeTo",
+        D: "window.innerHeight"
+      },
+      correctAnswer: "D"
+    },
+    {
+      question: "A(n) _________ is often used if you want to make sure information comes through to the user.",
+      answers: {
+        A: "Confirm Box",
+        B: "Alert Box",
+        C: "Prompt Box",
+        D: "Confirmation Alert"
+      },
+      correctAnswer: "B"
+    },
+    {
+      question: "If we wanted to access the Height property of our Object, what would we use?",
+      answers: {
+        A: "Object.Height",
+        B: "properties.Object=Height",
+        C: "#ObjectHeight",
+        D: "Height.(Object)"
+      },
+      correctAnswer: "B"
+    },
+    {
+      question: "Properties in an object are also called ______.",
+      answers: {
+        A: "Name Value Pairs",
+        B: "Variables",
+        C: "Properties",
+        D: "Values"
+      },
+      correctAnswer: "A"
+    },
   ];
 
   function buildQuiz() {

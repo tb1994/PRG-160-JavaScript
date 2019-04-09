@@ -1,0 +1,25 @@
+{
+  "ftp://iop-400-javaquiz.tbtestsite.com@student_iop-400-javaquiz.tbtestsite.com": {
+    "iop-400-javaquiz.tbtestsite.com": {
+      "index.html": {
+        "type": "-",
+        "size": 651,
+        "lmtime": 0,
+        "modified": false
+      },
+      "quiz.css": {
+        "type": "-",
+        "size": 1127,
+        "lmtime": 1554205968568,
+        "modified": false
+      },
+      "quiz.js": {
+        "type": "-",
+        "size": 7380,
+        "lmtime": 0,
+        "modified": false
+      }
+    }
+  },
+  "$version": 1
+}
