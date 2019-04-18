@@ -1,10 +1,22 @@
 {
   "ftp://iop-400-javaquiz.tbtestsite.com@student_iop-400-javaquiz.tbtestsite.com": {
     "iop-400-javaquiz.tbtestsite.com": {
+      ".gitignore": {
+        "type": "-",
+        "size": 342,
+        "lmtime": 1553191251199,
+        "modified": false
+      },
+      "README.md": {
+        "type": "-",
+        "size": 143,
+        "lmtime": 1554829161730,
+        "modified": false
+      },
       "index.html": {
         "type": "-",
-        "size": 651,
-        "lmtime": 0,
+        "size": 634,
+        "lmtime": 1554825230463,
         "modified": false
       },
       "quiz.css": {
@@ -15,8 +27,8 @@
       },
       "quiz.js": {
         "type": "-",
-        "size": 7380,
-        "lmtime": 0,
+        "size": 9030,
+        "lmtime": 1554829025256,
         "modified": false
       }
     }
