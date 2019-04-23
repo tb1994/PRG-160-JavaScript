@@ -165,6 +165,47 @@
       },
       correctAnswer: "A"
     },
+    {
+      question: "JavaScript Quiz Part 6 *Functions, JS Timning Events*", 
+    },
+    {
+      question: "The three types of functions are Named, Immediately invoked, and ___________ ",
+      answers: {
+        A: "Global",
+        B: "Undefined",
+        C: "Anonymous",
+        D: "Local"
+      },
+      correctAnswer: "C"
+    },
+    {
+      question: "A function is a __________.",
+      answers: {
+        A: "Sub Program",
+        B: "Call",
+        C: "Command",
+        D: "Program"
+      },
+      correctAnswer: "A"
+    },
+    {
+      question: "The three timing events are *setTimeout*, *setKeyframe*, and *setInterval*(T/F)",
+      answers: {
+        True: "Correct",
+        False: "There are only two timing events... the *setTimeout* and *setInterval*"
+      },
+      correctAnswer: "False"
+    },
+    {
+      question: "You want to prevent the function bye from initiating, which of the following code is needed?",
+      answers: {
+        A: "clearTimeout(.bye);",
+        B: "ignore(bye);",
+        C: "functionID(clearTimeout);",
+        D: "clearTimeout(functionID);"
+      },
+      correctAnswer: "D"
+    },
   ];
 
   function buildQuiz() {
